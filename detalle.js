@@ -22,6 +22,6 @@ async function detalle (pokemon){
 
 }
 
-detalle (5)
+
 
 
